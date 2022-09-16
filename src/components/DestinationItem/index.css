@@ -1,0 +1,22 @@
+.list-element {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #000000;
+}
+
+.destination-image {
+  width: 170px;
+  height: 170px;
+  background-size: cover;
+  margin: 10px;
+}
